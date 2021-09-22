@@ -39,6 +39,7 @@
             "useJwt": false,
             "timeout": 2000
        },
+        
        "publish": {
            "url": "https://mc-ca-twilio.herokuapp.com/publish",
             "verb": "POST",
